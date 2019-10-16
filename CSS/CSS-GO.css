@@ -13,7 +13,7 @@ z-index: 1;
  hr{
 width: 80%;
 margin-right: 20%;
-background: linear-gradient(45deg, #3acfd5 0%,#FF5CA2 100% ,#3a4ed5 100%);	
+background: linear-gradient(45deg,red 0%,orange,yellow,green,blue,purple,#FF5CA2 100% ,#3a4ed5 100%);	
 height:10px;
 }
 h3{
@@ -35,6 +35,14 @@ font-family:Arial;
 	
 }
 #tabela3{
+	margin-left:450px;
+	
+}
+#tabela4{
+	margin-left:450px;
+	
+}
+#tabela5{
 	margin-left:450px;
 	
 }
@@ -149,7 +157,7 @@ padding:50px;
 border-width: 16px;
 border-style:ridge;
 border-color :RGB(174, 54, 255);
-background-image:url(coraçao.png);
+background-image:url(IMG/coraçao1.png);
 
 }
 .caixa10{
@@ -171,7 +179,63 @@ padding:50px;
 border-width: 16px;
 border-style:ridge;
 border-color :RGB(174, 54, 255);
-background-image:url(coloridoB1.png);
+background-image:url(IMG/coloridoB1.png);
+
+}
+
+.caixa12{
+width:505px;
+height:220px;
+margin:10px;
+padding:50px;
+border-width: 6px;
+border-style:ridge;
+border-color :RGB(174, 54, 255);
+background-image:url(IMG/celular12.png);
+
+}
+.caixa13{
+width:505px;
+height:220px;
+margin:10px;
+padding:50px;
+border-width: 6px;
+border-style:ridge;
+border-color :RGB(174, 54, 255);
+background-image:url(IMG/celular2.png);
+
+}
+.caixa14{
+width:505px;
+height:220px;
+margin:10px;
+padding:50px;
+border-width: 6px;
+border-style:ridge;
+border-color :RGB(174, 54, 255);
+background-image:url(IMG/celular3.png);
+
+}
+.caixa15{
+width:505px;
+height:220px;
+margin:10px;
+padding:50px;
+border-width: 6px;
+border-style:ridge;
+border-color :black;
+background-image:url(IMG/euclico1.png);
+
+}
+.caixa16{
+width:505px;
+height:220px;
+margin:10px;
+padding:50px;
+border-width: 6px;
+border-style:ridge;
+border-color :black;
+background-image:url(IMG/euclico2.png);
 
 }
  .mainDiv {

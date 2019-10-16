@@ -1,0 +1,83 @@
+
+body{
+background-image:url(colorido3.png);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+#SobreMim-active a.active{
+	background-color:yellow;
+}
+
+#menu ul {
+background-attachment: fixed;
+font-family: 'Lobster', cursive;
+    padding:10px;
+    margin:0 0 0 0;
+    background-color:pink;
+    list-style:none;
+}
+#menu ul li{
+display: inline;
+margin:0 0 0 9%;
+background-color:pink;
+}
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:pink;
+    color: BLACK;
+    font-size:30px;
+    text-decoration: none;
+}
+#menu ul li a:hover {
+    background-color:yellow;
+    color: pink;
+}
+
+
+#SobreMim{
+position:absolute;
+	padding:20px;
+	margin:20px 50px 20px 250px;
+	width:800px;
+	height:4000px;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+	
+
+}
+#minhaFoto{
+width:750px;
+height:250px;
+margin-top:10px;
+margin-left:35px;
+
+}
+#InformacoesGerais{
+
+
+position:relative;
+}
+#Informaçoes01{
+width:500px;
+position:relative;
+
+}
+#Informaçoes02{
+position:absolute;
+
+}
+
+
+#Destaque{
+font-family: 'Lobster', cursive;
+color:rgb(255,51,204);
+}
+#Texto{
+font-family: 'Lobster', cursive;
+color:rgb(245,149,234);
+
+}
